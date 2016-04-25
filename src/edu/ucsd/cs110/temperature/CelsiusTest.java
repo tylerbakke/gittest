@@ -1,7 +1,7 @@
 package edu.ucsd.cs110.temperature;
-import org.testng.annotations.Test;
 
-import static org.testng.Assert.*;
+import static org.junit.Assert.*;
+import org.junit.Test;
 
 public class CelsiusTest {
     private float delta = 0.001f;

@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="331cb4bb-11ff-4a57-9f6c-178037bfee00" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntelliJIntroduction.iml" afterPath="$PROJECT_DIR$/IntelliJIntroduction.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
     </list>
     <ignored path="IntelliJIntroduction.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FahrenheitTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FahrenheitTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            <state relative-caret-position="126">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Celsius.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -79,8 +81,8 @@
       <file leaf-file-name="CelsiusTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="126">
+              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,10 +125,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Temperature.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Fahrenheit.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
       </list>
     </option>
   </component>
@@ -209,6 +211,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="temperature" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelliJIntroduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IntelliJIntroduction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -834,31 +850,16 @@
       <workItem from="1457730568542" duration="1036000" />
       <workItem from="1459898702360" duration="57000" />
       <workItem from="1461010732924" duration="1331000" />
-      <workItem from="1461564118066" duration="3556000" />
+      <workItem from="1461564118066" duration="4712000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CelsiusTest - 2016.04.24 at 23h 54m 43s.xml">
-      <configuration name="CelsiusTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CelsiusTest - 2016.04.24 at 23h 55m 52s.xml">
-      <configuration name="CelsiusTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CelsiusTest - 2016.04.24 at 23h 56m 35s.xml">
-      <configuration name="CelsiusTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="CelsiusTest - 2016.04.24 at 23h 57m 37s.xml">
       <configuration name="CelsiusTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="CelsiusTest - 2016.04.24 at 23h 59m 59s.xml">
       <configuration name="CelsiusTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CelsiusTest_testCelsiusToString - 2016.04.24 at 23h 52m 27s.xml">
-      <configuration name="CelsiusTest.testCelsiusToString" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="CelsiusTest_testCelsiusToString - 2016.04.24 at 23h 53m 06s.xml">
-      <configuration name="CelsiusTest.testCelsiusToString" configurationId="TestNG" />
     </history-entry>
     <history-entry file="FahrenheitTest - 2016.04.24 at 23h 56m 45s.xml">
       <configuration name="FahrenheitTest" configurationId="TestNG" />
@@ -869,9 +870,24 @@
     <history-entry file="FahrenheitTest - 2016.04.25 at 00h 00m 05s.xml">
       <configuration name="FahrenheitTest" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="FahrenheitTest - 2016.04.25 at 00h 07m 42s.xml">
+      <configuration name="FahrenheitTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FahrenheitTest - 2016.04.25 at 00h 20m 07s.xml">
+      <configuration name="FahrenheitTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FahrenheitTest - 2016.04.25 at 00h 20m 16s.xml">
+      <configuration name="FahrenheitTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FahrenheitTest - 2016.04.25 at 00h 20m 31s.xml">
+      <configuration name="FahrenheitTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="FahrenheitTest - 2016.04.25 at 00h 21m 12s.xml">
+      <configuration name="FahrenheitTest" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7087000" />
+    <option name="totallyTimeSpent" value="8243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1215" height="776" extended-state="6" />
@@ -885,7 +901,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32859176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32859176" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1093,12 +1109,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        <state relative-caret-position="252">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1113,21 +1130,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="40" column="22" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="126">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
